@@ -1,0 +1,17 @@
+.link{
+    text-decoration: none;
+    
+   
+}
+.navbar-nav{
+    
+    flex-direction: row;
+    margin-left: 100px;
+}
+.nav-link{
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: aliceblue;
+}
+

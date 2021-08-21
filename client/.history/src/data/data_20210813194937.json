@@ -1,0 +1,80 @@
+{
+  "cards": [
+    {
+      "id": 2,
+      "image": "/images/2.webp",
+      "title": "Authorities in China’s Wuhan say citywide Covid-19 testing complete after case surge",
+      "contenu": " Authorities in the central Chinese city of Wuhan on Sunday said they had completed citywide testing of more than 11 million people for Covid-19 after a resurgence of cases more than a year after the coronavirus first emerged there.",
+      "Link": "https://www.france24.com/en/asia-pacific/20210808-authorities-in-china-s-wuhan-say-citywide-covid-19-testing-complete-after-case-surge"
+    },
+    {
+      "id": 3,
+      "image": "/images/3.webp",
+      "title": "Bangladesh starts Covid-19 vaccination drive for Rohingya refugees",
+      "contenu": " Bangladesh began vaccinating thousands of Rohingya Muslims on Tuesday in the world’s largest refugee settlement, amid a surge in COVID-19 infections in the country, officials said.",
+      "Link": "https://www.france24.com/en/asia-pacific/20210810-bangladesh-starts-covid-19-vaccination-drive-for-rohingya-refugees"
+    },
+    {
+      "id": 4,
+      "image": "/images/4.webp",
+      "title": "France plans rollout of Covid vaccine booster shots – but only for the vulnerable.",
+      "contenu": " Like the UK and Germany, France plans to roll out third doses of Covid-19 vaccines to vulnerable people in the autumn to combat the more contagious Delta variant. But the French government is reluctant to extend this booster shot to the whole population.",
+      "Link": "https://www.france24.com/en/europe/20210804-france-plans-rollout-of-covid-vaccine-booster-shots-%E2%80%93-so-far-only-for-the-vulnerable"
+    },
+    {
+      "id": 5,
+      "image": "/images/5.webp",
+      "title": "China slams WHO plan to audit Wuhan lab in study of Covid-19 origins",
+      "contenu": " China on Thursday said a World Health Organization (WHO) proposal to audit Chinese labs as part of further investigation into the origins of the coronavirus pandemic showed disrespect and arrogance towards science.",
+      "Link": "https://www.france24.com/en/asia-pacific/20210722-china-slams-who-plan-to-audit-wuhan-lab-in-study-of-covid-19-origins"
+    },
+    {
+      "id": 6,
+      "image": "/images/6.webp",
+      "title": "Covid-19: Poorer nations to get 250 million donated vaccine doses under Covax",
+      "contenu": "Covax is expecting to receive 250 million donated Covid-19 vaccine doses over the next six to eight weeks, the World Health Organization said Wednesday.",
+      "Link": "https://www.france24.com/en/health/20210729-covid-19-poorer-nations-to-get-250-million-donated-vaccine-doses-under-covax"
+    },
+    {
+      "id": 7,
+      "image": "/images/7.webp",
+      "title": "Family feuds, a side effect of the Covid-19 vaccine",
+      "contenu": "As the French government ramps up efforts to expand the vaccination campaign against Covid-19, many continue to resist getting the jab. The situation has created tensions within some families, especially in light of recent announcements of tougher health policies. ",
+      "Link": "https://www.france24.com/en/europe/20210723-aggravated-family-feuds-an-apparent-side-effect-of-covid-19-vaccine"
+    },
+    {
+      "id": 8,
+      "image": "/images/8.webp",
+      "title": "Germany sees Covid-19 spike as EU-wide vaccinations fall short of 70% target",
+      "contenu": " German Chancellor Angela Merkel warned on Thursday that new cases of Covid-19 in her country were rising exponentially, driven by the Delta variant, as EU officials said more than half of all European adults had been fully vaccinated, short of a 70% target set for the summer.",
+      "Link": "https://www.france24.com/en/europe/20210723-germany-sees-covid-19-spike-as-eu-wide-vaccinations-fall-short-of-70-target"
+    }
+  ],
+  "user": [
+   
+    {
+      "first_name": "wahida",
+      "last_name": "manaa",
+      "birthday": "2021-08-14",
+      "gender": "",
+      "email": "Hamza.obey@ensi-uma.tn",
+      "password": "Hamza1234",
+      "phone": "24226076",
+      "occupation": "Doctor",
+      "speciality": "Cariology",
+      "id": 15
+    },
+    {
+      "first_name": "wahida",
+      "last_name": "manaa",
+      "birthday": "2021-08-14",
+      "gender": "",
+      "email": "Hamza.obey@ensi-uma.tn",
+      "password": "Hamza1234",
+      "phone": "24226076",
+      "occupation": "Doctor",
+      "speciality": "Cariology",
+      "id": 15
+    }
+  ]
+}

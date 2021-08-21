@@ -1,0 +1,25 @@
+.link{
+    text-decoration: none;
+    
+   
+}
+.navbar22{
+    display: inline-flex;
+    flex-direction: row;
+}
+.nav2-link{
+    color: aliceblue;
+}
+.nav2-link:hover{
+    color: aliceblue;
+}
+.navbar2{
+    margin-left: 150px;
+}
+ul .nav2:hover{
+    background-color:white;
+
+}
+Link{
+    text-decoration: none;
+}

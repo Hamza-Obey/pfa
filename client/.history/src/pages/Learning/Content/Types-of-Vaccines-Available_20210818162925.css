@@ -1,0 +1,25 @@
+a.covlink{
+    text-decoration: none;
+    font-size: 20px;
+    margin: "10px 0px";
+    border :
+}
+a.green{
+    color: green;
+}
+a.pink{
+    color :rgb(160, 74, 88)
+}
+a.purple{
+    color: purple;
+}
+a.orange{
+    color: orange;
+}
+a.blue{
+    color: rgb(26, 145, 175);
+}
+
+a.covlink:hover{
+    color: black;
+}

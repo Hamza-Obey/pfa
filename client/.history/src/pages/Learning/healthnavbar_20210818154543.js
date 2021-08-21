@@ -1,0 +1,73 @@
+import React from 'react';
+
+import AppBar from '@material-ui/core/AppBar';
+import Toolbar from '@material-ui/core/Toolbar';
+import Typography from '@material-ui/core/Typography';
+import Button from '@material-ui/core/Button';
+import { HomeIcon } from '@heroicons/react/solid';
+import "./healthnavbar.css"
+import { useHistory } from 'react-router-dom';
+import { Link } from 'react-router-dom';
+
+
+
+export default function Healthnavbar() {
+    const History=useHistory()
+
+    const Logout=() => {
+        localStorage.clear()
+        History.push("/")
+        window.location.reload();
+    
+      }
+  
+
+  return (
+    <div >
+       <AppBar> 
+        <Toolbar position="static" fixed className="navbar1">
+          <Button href="/Home"    aria-label="menu">
+          <HomeIcon fontSize="large" /> 
+          </Button>
+          <nav class="navbar nav1 navbar-expand-lg navbar-light ">
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                
+                <li class="nav-item">
+                    <Link class="nav-link" to="/ABOUT-COVID-19"> ABOUT COVID-19 </Link>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    CLINICAL CARE
+                    </a>
+                    <div style ={{backgroundColor:"#dddddd"}}class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="#Clinical-Care-Guidance">Clinical Care Guidance</a> <hr/>
+                    <a  class="dropdown-item" href="#">EPREVENT AND CONTROL COVID-19</a> <hr/>
+                    <a class="dropdown-item" href="#">FACILITY OPERATIONS</a> <hr/>
+                    <a class="dropdown-item" href="#">Managing COVID-19 Patients</a>
+                    
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    VACCINES
+                    </a>
+                    <div style ={{backgroundColor:"#dddddd"}} class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <Link class="dropdown-item" to="/Types-of-Vaccines-Available">Types of Vaccines for Covid-19</Link>
+                    <a class="dropdown-item" href="#"> Possible Side Effects</a>
+                   
+                    </div>
+                </li>
+                </ul>
+            </div>
+        </nav>
+         
+
+
+          
+          <i onClick={Logout} style={{marginLeft:"12.5cm",fontWeight:"-moz-initial",cursor:"pointer",float:"right",fontSize:"20px"}}  class="fa fa-sign-out" aria-hidden="true"> Sign out </i>
+        </Toolbar>
+     </AppBar> 
+    </div>
+  );
+}

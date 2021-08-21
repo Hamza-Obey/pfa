@@ -1,0 +1,48 @@
+.link{
+    text-decoration: none;
+    
+   
+}
+.navbar22{
+    display: inline-flex;
+    flex-direction: row;
+}
+.nav2-link{
+    color: aliceblue;
+    tet
+}
+.nav2-link:hover{
+    color: aliceblue;
+}
+.navbar2{
+    margin-left: 150px;
+}
+
+
+
+Link{
+    text-decoration: none;
+}
+ul li:hover{
+    background-color:rgba(196, 194, 194,.5);
+}
+
+ul{
+    margin-left: 50px;
+    margin-right: 30px;
+}
+ul li {
+    margin-left: 20PX;
+    margin-right: 20px;
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    transition: 0.8s all;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+    color: white;
+   
+   
+    
+}

@@ -1,0 +1,8 @@
+.link{
+    text-decoration: none;
+   
+}
+.topnav{
+    display: flex;
+    flex-direction: row;
+}

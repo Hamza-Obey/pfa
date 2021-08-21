@@ -1,0 +1,17 @@
+.link{
+    text-decoration: none;
+    
+   
+}
+.navbar-nav{
+    
+    flex-direction: row;
+}
+.nav-link{
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: aliceblue;
+}
+.to
+

@@ -1,0 +1,77 @@
+ .back{
+    background-image: url("Back.jpg");
+    background-size: cover;
+    height:700px;
+    
+    
+  }
+
+
+  a.sign{
+    font-size: 30px;
+    width: 250px;
+    font-family: Sofia;
+    color: rgb(37, 27, 27);
+    background-color: rgba(192,192,192,.8);
+    margin-top: 50px;
+    transition: 0.8s all;
+    border-radius: 20px;
+    font-weight: bold;
+  }
+  a.sign:hover{
+    background-color: rgba(228, 224, 220,.7);
+  }
+  
+
+  .try1 {
+    display:inline-block;
+    overflow:hidden;
+    white-space:nowrap;
+    animation: showup 7s infinite;
+    font-size: 60px;
+    font-family : Sofia ;
+    color: rgb(20, 20, 19);
+  }
+  
+  
+  
+  .try2 {
+    display:inline-block;
+    overflow:hidden;
+    white-space:nowrap;
+    width:0px;
+    animation: reveal 7s infinite;
+    font-size : 35PX ;
+    font-family : Sofia ;
+    color: rgb(19, 19, 17);
+    font-weight: bold;
+    
+  }
+  
+  .try3 {
+    margin-left:-355px;
+    animation: slidein 7s infinite;
+  }
+
+
+  @keyframes showup {
+    0% {opacity:0;}
+    20% {opacity:1;}
+    80% {opacity:1;}
+    100% {opacity:0;}
+}
+
+@keyframes slidein {
+    0% { margin-left:-800px; }
+    20% { margin-left:-800px; }
+    35% { margin-left:0px; }
+    100% { margin-left:0px; }
+}
+
+@keyframes reveal {
+    0% {opacity:0;width:0px;}
+    20% {opacity:1;width:0px;}
+    30% {width:355px;}
+    80% {opacity:1;}
+    100% {opacity:0;width:355px;}
+}

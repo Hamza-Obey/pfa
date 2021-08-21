@@ -1,0 +1,33 @@
+.link{
+    text-decoration: none;
+}
+
+ul.navbar22{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    
+    margin-left: 178px;
+    
+    
+    
+    
+}
+
+ul li.nav2 {
+    margin-left: 20PX;
+    margin-right: 20px;
+    width: 150px;
+    text-align: center;
+    transition: 0.8s all;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    
+   
+   
+    
+}
+.nav2-link{
+    text-decoration: none;
+    color: aliceblue;
+}

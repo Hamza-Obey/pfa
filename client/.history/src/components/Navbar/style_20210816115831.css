@@ -1,0 +1,62 @@
+ul li:hover{
+    background-color:rgba(196, 194, 194,.5);
+}
+
+ul{
+    margin-left: 50px;
+    margin-right: 30px;
+}
+ul li {
+    margin-left: 20PX;
+    margin-right: 20px;
+    width: 150px;
+    text-align: center;
+    transition: 0.8s all;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+   
+   
+    
+}
+Link{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-emphasis-color: rgb(245, 246, 248);
+}
+.Register:hover{
+    background-color: rgba(49, 91, 146, 0.4);
+}
+.Register{
+    margin-left: 250px;
+    background-color: rgba(136, 172, 226, 0.5);
+    border-radius: 15px;
+    
+}
+.nom{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+@media (max-width: 640px) {
+    .container {
+      text-align: center;
+      flex-direction: column;
+    }
+  
+    .container.topnav {
+      flex-direction: column;
+    }
+  
+    .topnav ul {
+      flex-direction: column;
+    }
+  
+    .topnav li {
+      margin: 0.8em 0;
+    }
+  }
+.navbar-nav {
+  margin-left: 150px;
+}

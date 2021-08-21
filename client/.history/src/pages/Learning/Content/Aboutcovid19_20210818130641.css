@@ -1,0 +1,14 @@
+.title-covid{
+    
+width:100%
+}
+.covid-right{
+    float: right;
+    margin-right: 30px;
+    background-color: aliceblue;
+    height: 100vh;
+}
+.covid-left{
+    float: left;
+    margin-left: 30px;
+}

@@ -1,0 +1,99 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
+.contact2 {
+  font-family: "Montserrat", sans-serif;
+  color: #0b0f18;
+  font-weight: 300;
+	padding: 60px 0;
+  margin-bottom: 20px;
+  background-position: center top;
+  background-image:url(https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/contact/map.jpg) ;
+  
+}
+
+
+.contact2 h1,
+.contact2 h2,
+.contact2 h3,
+.contact2 h4,
+.contact2 h5,
+.contact2 h6 {
+  color: #0d1014;
+}
+
+.contact2 .font-weight-medium {
+  font-weight: 500;
+}
+
+.contact2 .subtitle {
+  color: #8d97ad;
+  line-height: 24px;
+}
+
+.contact2 .bg-image {
+  background-size: cover;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.contact2 .card.card-shadow {
+    -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+    box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+
+.contact2 .detail-box .round-social {
+  margin-top: 100px;
+}
+
+.contact2 .round-social a {
+  background: transparent;
+  margin: 0 7px;
+  padding: 11px 12px;
+}
+
+.contact2 .contact-container .links a {
+  color: #8d97ad;
+}
+
+.contact2 .contact-container {
+  position: relative;
+  top: 0;
+}
+
+.btn5{
+
+   
+    height: 50px;
+    width:200px;
+    color: white;
+    background-color:rgba(30, 98, 201, 0.8);
+    transition: 0.8s all;
+    float: right;
+    border-radius: 10px;
+
+
+}
+.btn1:hover{
+    background-color: rgba(103, 114, 219, 0.8);
+  
+}
+.form-control{
+    background-color: white;
+}
+.title{
+    margin-left: 250px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+@media (max-width: 640px) {
+
+.contact-container{
+  flex-direction: column;
+  text-align: center;
+  
+}
+
+}

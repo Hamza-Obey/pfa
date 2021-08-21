@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "image": "images/1.png",
+      "title": "Map: See if the CDC recommends indoor mask use in the county where you live",
+      "contenu": "Nationwide, 2 out of 3 counties are included in the indoor mask guidance."
+    },
+    {
+      "id": 2,
+      "image": "/images/2.jpg",
+      "title": "Biden has new vaccination goals. See if the country is on pace to hit them.",
+      "contenu": " By the Fourth of July, Biden wanted 160 million adults fully vaccinated and 70 percent of adults with at least one shot of a Covid-19 vaccination."
+    },
+    {
+      "id": 3,
+      "image": "/images/3.gif",
+      "title": "MAP: Covid-19 vaccination tracker across the U.S.",
+      "contenu": " NBC News is tracking administered doses in each state by surveying health departments and examining daily reports."
+    },
+    {
+      "id": 4,
+      "image": "images/4.png",
+      "title": "Tracking coronavirus case surges in states across the country",
+      "contenu": " New coronavirus cases are rising across the country. Not all upticks are the same."
+    },
+    {
+      "id": 5,
+      "image": "images/5.png",
+      "title": "Map: Coronavirus cases are rising around the U.S. See where case counts are rising the most.",
+      "contenu": " NBC News is following Covid-19 case numbers in states and territories in the United States. The data will be updated daily."
+    },
+    {
+      "id": 6,
+      "image": "/images/6.jpg",
+      "title": "Map: Track coronavirus deaths around the world",
+      "contenu": " Get the latest data on the human cost of this virus. Updated daily."
+    },
+    {
+      "id": 7,
+      "image": "/images/7.jpg",
+      "title": "Coronavirus map: Confirmed Covid cases, per country",
+      "contenu": " Here's how many coronavirus cases per country have been confirmed. This map is updated daily."
+    },
+    {
+      "id": 8,
+      "image": "/images/8.jpg",
+      "title": "Tracking new coronavirus cases in hot spots across the United States",
+      "contenu": " From New York to Washington, see the per-day count of new, confirmed Covid-19 cases in each state. Updated daily."
+    },
+    {
+      "id": 9,
+      "image": "/images/9.jpg",
+      "title": "Graphic: See the day-by-day size of the coronavirus outbreak in the U.S. and worldwide",
+      "contenu": " Track the number of new Covid-19 cases per day around the rest of the world. Updated daily."
+    }
+  ]
+}

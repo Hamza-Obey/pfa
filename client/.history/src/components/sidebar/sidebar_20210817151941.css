@@ -1,0 +1,10 @@
+.link{
+    text-decoration: none;
+    color: aliceblue;
+   
+}
+.navbar-nav{
+    
+    flex-direction: row;
+}
+
