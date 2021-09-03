@@ -1,13 +1,6 @@
 {
   "cards": [
     {
-      "id": 2,
-      "image": "/images/2.webp",
-      "title": "Authorities in China’s Wuhan say citywide Covid-19 testing complete after case surge",
-      "contenu": " Authorities in the central Chinese city of Wuhan on Sunday said they had completed citywide testing of more than 11 million people for Covid-19 after a resurgence of cases more than a year after the coronavirus first emerged there.",
-      "Link": "https://www.france24.com/en/asia-pacific/20210808-authorities-in-china-s-wuhan-say-citywide-covid-19-testing-complete-after-case-surge"
-    },
-    {
       "id": 3,
       "image": "/images/3.webp",
       "title": "Bangladesh starts Covid-19 vaccination drive for Rohingya refugees",

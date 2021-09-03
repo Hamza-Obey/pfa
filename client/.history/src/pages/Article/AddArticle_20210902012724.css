@@ -1,0 +1,8 @@
+.coverpic{
+    background-image: url("article12.jpg") !important;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  
+}

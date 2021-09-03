@@ -1,0 +1,6 @@
+.coverpic{
+    background-image: url("8.webp");
+    background: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
